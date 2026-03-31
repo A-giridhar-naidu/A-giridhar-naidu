@@ -39,3 +39,12 @@ A versatile Full-Stack Developer currently mastering the MERN stack and cloud or
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
 
 [![](https://visitcount.itsvg.in/api?id=A-giridhar-naidu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🕹️ Contribution Activity
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A-giridhar-naidu/A-giridhar-naidu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A-giridhar-naidu/A-giridhar-naidu/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/A-giridhar-naidu/A-giridhar-naidu/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</div>
