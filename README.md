@@ -55,20 +55,8 @@
 <br />
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <h3 align="center">📊 GitHub Stats</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=A-giridhar-naidu&theme=github_dark" height="180" alt="stats" />
-      </td>
-      <td align="center">
-        <h3 align="center">🔝 Top Languages</h3>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=A-giridhar-naidu&theme=github_dark" height="180" alt="top languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/A-giridhar-naidu/A-giridhar-naidu/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </div>
-
 <br />
 
 <h3 align="center">🕹️ Contribution Activity</h3>
